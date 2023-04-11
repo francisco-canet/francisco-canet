@@ -37,8 +37,9 @@ Here are some ideas to get you started:
 
 <img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
----
 
+---
 ### My data science journey
 
-
+---
+### My Projects
