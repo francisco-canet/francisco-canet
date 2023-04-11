@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🙋
+
 <!--
 **francisco-canet/francisco-canet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ---
-### Languages and Tools:
+### 🧰 Languages and Tools:
 
 <img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
@@ -37,9 +39,11 @@ Here are some ideas to get you started:
 
 <img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
+<br />
 
 ---
-### My data science journey
+### 💼 My Projects
+
 
 ---
-### My Projects
+### 🏄 My data science journey
