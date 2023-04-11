@@ -33,3 +33,12 @@ Here are some ideas to get you started:
 <img align="left" alt="scikit learn" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/00032b09c7feea08edd4486c522c2d962f9d52ec/doc/logos/scikit-learn-logo-without-subtitle.svg" /> 
 
 <img align="left" alt="Flask" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+
+
+<img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+
+---
+
+### My data science journey
+
+
