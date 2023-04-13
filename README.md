@@ -62,7 +62,7 @@ Finally, we wondered if any of these biomarkers could be altered by supplementat
 
 #### 2.	Machine learning to predict the quality of white wine 
 
-**Context**
+**CONTEXT**
 <br/>
 Wine industry has grown in the last decades. To continue this growth, the wine industry has invested in modern technology for making and selling wine. Wine certification and quality assessment are important in this context. Quality assessment is part of the certification process and can be used to improve the winemaking process, by identifying the most crucial factors in making a good wine, and to stratify wines into premium brands, useful for pricing.
 <br/>
@@ -72,19 +72,19 @@ During certification, physicochemical variables are measured, and sensory tests 
 
 Data source [here](http://www3.dsi.uminho.pt/pcortez/wine/)
 
-**Objective**
+**OBJECTIVE**
 <br/>
 To facilitate the wine classification process, I trained a machine learning (ML) model to predict wine quality based on different physicochemical variables.
 <br/>
 
-**Exploratory Data Analysis**
+**EXPLORATORY DATA ANALYSIS**
 <br/>
 The quality of wines ranges in a score from 4–8. This was an imbalanced classification task because there were more normal (6 and 7) wines than poor (4) and excellent ones (8). Originally, there were eleven physicochemical variables. <br/>
 <div align="center">
     <img src="Wine\histogram.png" alt="histogram quality wine"  width="600" height="500">
 </div><br/>
 
-**Model training and testing**
+**MODEL TRAINING AND TESTING**
 <br/>
 The F1-score was used for tuning the ML model. The best model in cross validation was Random Forest. Below, you can see the confusion of how the wines in the test set were classified by this Random Forest algorithm.
 <br/>
@@ -98,7 +98,7 @@ We see that most wines were classified correctly, or one category above or below
 
 **Note: the confusion matrix is normalized by the ground true values, so it gives an idea of the precision of the classification in each quality category.*
 
-**Feature importance**
+**FEATURE IMPORTANCE**
 <br/>
 The most important feature in wine quality was alcohol content, followed by the ratio of free sulfur to total sulfur and volatile acidity. 
 <br/>
@@ -111,6 +111,8 @@ Winemakers could manipulate or modulate these variables to some degree to produc
 
 Check my complete code [here](https://github.com/francisco-canet/wine-ml)
 <br/>
+
+---
 <details>
     <summary><h3> 🏄 My data science journey</h4></summary>
     <p> While I was working on my PhD research, I really enjoyed analyzing the data from my experiments, understanding the math behind the statistical test I was using, trying to see patterns, making hypotheses, and finally telling an interesting data-based story.
