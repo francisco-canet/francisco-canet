@@ -59,7 +59,7 @@ Finally, we wondered if any of these biomarkers could be altered by supplementat
 <br/>
 
 ---
-
+<br/>
 #### 2.	Machine learning to predict the quality of white wine 
 
 **CONTEXT**
