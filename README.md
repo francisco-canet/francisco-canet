@@ -29,8 +29,6 @@ I’m an engineer and biomedical researcher. My research was focused on studying
 
 #
 ---
-<br/>
-
 ### 💼 My Projects
 
 #### 1. Biomarkers to predict the development of type 2 diabetes.
