@@ -23,10 +23,9 @@ I’m an engineer and biomedical researcher. My research was focused on studying
 <img align="left" alt="Flask" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 
 
-<img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+<img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> <br/>
 
 <br />
-<br/>
 
 #
 
