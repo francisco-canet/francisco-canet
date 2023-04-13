@@ -33,6 +33,8 @@ I’m an engineer and biomedical researcher. My research was focused on studying
 ### 💼 My Projects
 
 #### 1. Biomarkers to predict the development of type 2 diabetes.
+This project was part of my PhD thesis, check the published research [here](https://pubmed.ncbi.nlm.nih.gov/36501195/) <br/>
+
 Diabetes involves many metabolic alterations beyond high glucose levels. It could be helpful for physicians to know which patients are more likely to develop diabetes. With this in mind, we examined the metabolic profile of patients at increased risk of developing type 2 diabetes; this profile consisted of measurements of 250 metabolite concentrations and 780 gene expressions.
 Because insulin resistance appears years before developing diabetes, first we divided the patients into tertiles based on their insulin resistance levels, with those in the lowest tertile exhibiting less resistance and those in the highest tertile having greater resistance. 
 <br/>
@@ -54,8 +56,6 @@ Finally, we wondered if any of these biomarkers could be altered by supplementat
 <div align="center">
     <img src="Salmon\amino acids2.jpg" alt="amino acids intervention"  width="450" height="650">
 </div> <br/>
-
-To see more details of this research, click [here](https://pubmed.ncbi.nlm.nih.gov/36501195/)
 <br/>
 
 ---
