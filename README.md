@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋 🙋
 
-🙋
+I’m an engineer and biomedical researcher. My research was focused on studying cellular mechanisms (such as mitochondrial function and oxidative stress) implicated in the development of diabetes and its related cardiovascular complications. During this period, I learned many important lessons for becoming a data scientist.
+- 🔭 I’m currently searching for job opportunities
+- 📫 How to reach me: [email](francisco.canet.1994@gmail.com), [Linkedin](https://www.linkedin.com/in/francisco-canet/)
 
 <!--
 **francisco-canet/francisco-canet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
