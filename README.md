@@ -26,6 +26,7 @@ I’m an engineer and biomedical researcher. My research was focused on studying
 <img align="left" alt="vscode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 
 <br />
+<br/>
 
 #
 
@@ -59,7 +60,7 @@ Finally, we wondered if any of these biomarkers could be altered by supplementat
 <br/>
 
 ---
-<br/>
+
 #### 2.	Machine learning to predict the quality of white wine 
 
 **CONTEXT**
