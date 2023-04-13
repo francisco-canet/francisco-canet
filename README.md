@@ -2,23 +2,15 @@
 
 I’m an engineer and biomedical researcher. My research was focused on studying cellular mechanisms (such as mitochondrial function and oxidative stress) implicated in the development of diabetes and its related cardiovascular complications. During this period, I learned many important lessons for becoming a data scientist.
 - 🔭 I’m currently searching for job opportunities
-- 📫 How to reach me: [email](francisco.canet.1994@gmail.com), [Linkedin](https://www.linkedin.com/in/francisco-canet/)
+- 📫 How to reach me: [e-mail](francisco.canet.1994@gmail.com) and [Linkedin](https://www.linkedin.com/in/francisco-canet/)
 
-<!--
-**francisco-canet/francisco-canet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<details>
+    <summary><h3> My data science journey</h4></summary>
+    <p> While I was working on my PhD research, I really enjoyed analyzing the data from my experiments, understanding the math behind the statistical test I was using, trying to see patterns, making hypotheses, and finally telling an interesting data-based story.
+    I started to teach myself R with the idea of analyzing my data faster and making my work more efficient. In the meantime, I had the opportunity to work on a bioinformatics project where I met people enthusiastic about coding and statistics, which inspired me.
+    At this point, I was very curious about machine learning and all the potential of these informatic tools in solving real-world problems, so I decided to enroll in a Data Science Bootcamp.
+    That’s how I started my path into data science, and I’m happy to have made that decision.</p>
+    </details>
 ---
 ### 🧰 Languages and Tools:
 
