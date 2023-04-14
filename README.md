@@ -88,7 +88,6 @@ The F1-score was used for tuning the ML model. The best model in cross validatio
 <br/>
 
 We see that most wines were classified correctly, or one category above or below, but not more. Thus, this ML model could aid wine tasters in assessing wine quality.
-*Note: the confusion matrix is normalized by the ground true values, so it gives an idea of the precision of the classification in each quality category.
 <br/>
 <div align="center">
     <img src="Wine\matrix.png" alt="confusion matrix"  width="500" height="500">
@@ -115,6 +114,6 @@ Check my complete code [here](https://github.com/francisco-canet/wine-ml)
     <summary><h3> 🏄 My data science journey</h4></summary>
     <p> While I was working on my PhD research, I really enjoyed analyzing the data from my experiments, understanding the math behind the statistical test I was using, trying to see patterns, making hypotheses, and finally telling an interesting data-based story.
     I started to teach myself R with the idea of analyzing my data faster and making my work more efficient. In the meantime, I had the opportunity to work on a bioinformatics project where I met people enthusiastic about coding and statistics, which inspired me.
-    At this point, I was very curious about machine learning and all the potential of these informatic tools in solving real-world problems, so I decided to enroll in a Data Science Bootcamp.
+    At this point, I was very curious about machine learning and all the potential of these informatic tools in solving real-world problems, so I decided to enroll in a data science Bootcamp.
     That’s how I started my path into data science, and I’m happy to have made that decision.</p>
     </details>
