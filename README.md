@@ -30,12 +30,11 @@ I’m an engineer and biomedical researcher. My research was focused on studying
 #
 ---
 ### 💼 My Projects
-
 #### 1. Biomarkers to predict the development of type 2 diabetes.
 This project was part of my PhD thesis, check the published research [here](https://pubmed.ncbi.nlm.nih.gov/36501195/) <br/>
 
 Diabetes involves many metabolic alterations beyond high glucose levels. It could be helpful for physicians to know which patients are more likely to develop diabetes. With this in mind, we examined the metabolic profile of patients at increased risk of developing type 2 diabetes; this profile consisted of measurements of 250 metabolite concentrations and 780 gene expressions.
-Because insulin resistance appears years before developing diabetes, first we divided the patients into tertiles based on their insulin resistance levels, with those in the lowest tertile exhibiting less resistance and those in the highest tertile having greater resistance. 
+Because insulin resistance appears years before developing diabetes, first we divided the patients into tertiles based on their insulin resistance levels, with those in the lowest tertile exhibiting less resistance and those in the highest tertile having greater resistance, and then we compared their metabolic profiles. 
 <br/>
 
 We found that the patients in the highest tertile had a higher serum monounsaturated fatty acid ratio to total fatty acids and higher Glycoprotein acetyl (an inflammation marker), but less glycine (an amino acid) and acetate (a short-chain fatty acid), compared to those patients with less insulin resistance.
@@ -45,7 +44,7 @@ We found that the patients in the highest tertile had a higher serum monounsatur
     <img src="Salmon\amino acids.jpg" alt="amino acids baseline"  width="400" height="600">
 </div><br/>
 
-Another interesting finding was that the leukocytes from patients in the highest tertile had higher expression of the gene CPT1A, which codes for a protein involved in fatty acid metabolism.
+Another interesting finding was that the leukocytes from patients in the highest tertile had higher expression of the gene *CPT1A*, which codes for a protein involved in fatty acid metabolism.
 <br/>
 <div align="center">
     <img src="Salmon\genes.jpg" alt="genes"  width="550" height="500">
@@ -66,7 +65,7 @@ Finally, we wondered if any of these biomarkers could be altered by supplementat
 Wine industry has grown in the last decades. To continue this growth, the wine industry has invested in modern technology for making and selling wine. Wine certification and quality assessment are important in this context. Quality assessment is part of the certification process and can be used to improve the winemaking process, by identifying the most crucial factors in making a good wine, and to stratify wines into premium brands, useful for pricing.
 <br/>
 
-During certification, physicochemical variables are measured, and sensory tests are carried out. In the laboratory, routine physicochemical variables such as density, alcohol, pH, sulfur content. are measured, on the other hand, sensory tests are carried out by expert tasters. It is important to note that taste is the least understood human sense, so wine classification can be a challenging task.
+During certification, physicochemical variables are measured, and sensory tests are carried out. In the laboratory, routine physicochemical variables such as density, alcohol, sulfur content, etc. are measured; on the other hand, sensory tests are carried out by expert tasters. It is important to note that taste is the least understood human sense, so wine classification can be a challenging task.
 <br/>
 
 Data source [here](http://www3.dsi.uminho.pt/pcortez/wine/)
@@ -85,7 +84,7 @@ The quality of wines ranges in a score from 4–8. This was an imbalanced classi
 
 **MODEL TRAINING AND TESTING**
 <br/>
-The F1-score was used for tuning the ML model. The best model in cross validation was Random Forest. Below, you can see the confusion of how the wines in the test set were classified by this Random Forest algorithm.
+The F1-score was used for tuning the ML model. The best model in cross validation was Random Forest. Below, you can see the confusion matrix of how the wines in the test set were classified by this Random Forest algorithm.
 <br/>
 
 We see that most wines were classified correctly, or one category above or below, but not more. Thus, this ML model could aid wine tasters in assessing wine quality.
