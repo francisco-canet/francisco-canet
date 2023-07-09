@@ -1,6 +1,6 @@
 ### Hi there 🙋
 
-I’m an engineer and biomedical researcher. My research was focused on studying cellular mechanisms (such as mitochondrial function and oxidative stress) implicated in the development of diabetes and its related cardiovascular complications. During this period, I learned many important lessons for becoming a data scientist.
+I’m an engineer and biomedical researcher. My PhD research was focused on studying cellular mechanisms (such as mitochondrial function and oxidative stress) implicated in the development of diabetes and its related cardiovascular complications. During this period, I learned many important lessons for becoming a data scientist.
 - 🔭 I’m currently searching for job opportunities
 - 📫 How to reach me: [e-mail](francisco.canet.1994@gmail.com) and [Linkedin](https://www.linkedin.com/in/francisco-canet/)  
 ---
